@@ -1,3 +1,5 @@
+const valor = 0;
+
 const filterMaior18 = (valor) => {
     if (valor > 18) {
         return valor;
